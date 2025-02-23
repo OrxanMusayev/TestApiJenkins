@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JFQHZB1iH3apr5IrEWPtqGaLwzJB7IlC2n8Ym6M9st4=",
+  "Source": "TestApiJenkins",
+  "BasePath": "_content/TestApiJenkins",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
